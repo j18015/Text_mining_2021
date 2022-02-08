@@ -1,4 +1,23 @@
 # Text_mining_2021
 卒業研究ソースコード掲載
 # janome_20211126.py
-![image](https://user-images.githubusercontent.com/52224015/152920072-e1c11a27-1465-490e-b29f-a91a3b45ba9a.png)
+Janome実行コード
+# mecab_20211121.ipynb
+MaCab実行ノートブック
+# app copy 2.py
+簡易アプリケーションPythonファイル
+# youtubeapi copy 2.ipynb
+簡易アプリケーションノートブック
+# wordcloud_mecab.py
+MeCabによるWordCloud出力Pythonファイル
+# wordcloud.ipynb
+MeCabによるWordCloud出力ノートブック
+# count.py
+単語出現回数グラフ化
+# word2vec_20211206_stop.ipynb
+Word2Vecモデル作成及びグラフ表示ノートブック
+# judge_comment.ipynb
+コメントスコア化ノートブック
+＊スコア化には「emotion.txt」及び「tf-idf.txt」が必要
+# negpos.ipynb
+ネガポジ判定付きWordCloud出力ノートブック
