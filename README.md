@@ -6,8 +6,10 @@ Janome実行コード
 MaCab実行ノートブック
 # app copy 2.py
 簡易アプリケーションPythonファイル
+＊YouTube Data APIキーが必要「secret copy.json」
 # youtubeapi copy 2.ipynb
 簡易アプリケーションノートブック
+＊YouTube Data APIキーが必要「secret copy.json」
 # wordcloud_mecab.py
 MeCabによるWordCloud出力Pythonファイル
 # wordcloud.ipynb
